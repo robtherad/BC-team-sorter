@@ -1,0 +1,20 @@
+
+===== Function reset_values =====
+
+===== Function parse_input =====
+Bravo Co. - 20
+Charlie Co. - 7
+Delta Co. - 5
+Echo Co. - 9
+Fox Co. - 7
+Golf Co. - 5
+Hotel Co. - 4
+India Co. - 3
+
+===== Function sort_teams =====
+ Perfect solution - 0
+ -- Found new best - 4 difference
+ SUCESS - Found perfect solution (0) after 2 tries
+
+===== Function build_string =====
+Done!
